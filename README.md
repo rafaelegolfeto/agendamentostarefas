@@ -16,7 +16,7 @@ Siga estas etapas para configurar o projeto localmente:
 
 1. Clone o repositório:
 
-    `git clone https://github.com/rafaelegolfeto/agendamentotarefas.git `
+    `git clone https://github.com/rafaelegolfeto/agendamentostarefas.git `
 
 2. Instale as dependências do Composer:
 
